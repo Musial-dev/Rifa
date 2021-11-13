@@ -1,0 +1,49 @@
+body {
+background: url(../imagens/penelope.jpeg) fixed no-repeat;
+background-size: cover;
+}
+
+#qtde {
+	border: 1px solid black;
+	font-family: Verdana;
+}
+
+
+tr:nth-child(even) {
+	background-color: pink;
+}
+
+table td {
+	font-weight: 600;
+	color: black;
+}
+
+table {
+	border: 1px solid black;
+	background-color: #ffb3ec;
+	font-family: Verdana;
+}
+
+#tabela {
+	width: 100%;
+	height: 50%;
+}
+
+#qtde {
+	width: 50%;
+	height: 50%;
+}
+
+.sel {
+	text-decoration-line: line-through; 
+	text-decoration-color: red;
+	font-weight: 300;
+
+}
+
+
+table caption { 
+	font-family: Verdana;
+	font-size: 200%;
+
+}
